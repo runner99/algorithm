@@ -26,12 +26,12 @@ public class SingleLinkedListDemo {
 //        System.out.println("原来链表的情况~~");
 //        singleLinkedList.list();
 
-		System.out.println("反转单链表~~");
-		reversetList(singleLinkedList.getHead());
-		singleLinkedList.list();
+//		System.out.println("反转单链表~~");
+//		reversetList(singleLinkedList.getHead());
+//		singleLinkedList.list();
 
-//        System.out.println("测试逆序打印单链表, 没有改变链表的结构~~");
-//        reversePrint(singleLinkedList.getHead());
+        System.out.println("测试逆序打印单链表, 没有改变链表的结构~~");
+        reversePrint(singleLinkedList.getHead());
 
 
 		//加入按照编号的顺序
