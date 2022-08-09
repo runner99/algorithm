@@ -20,8 +20,6 @@ public class TestInsert {
             }
 //            if (index!=i-1){
                 arr[index+1]=value;
-
-
         }
     }
 }
